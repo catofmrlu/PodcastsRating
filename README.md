@@ -18,77 +18,76 @@
 ------
 
 **迟早更新：**
-![](https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter.svg)
+![](https://img.shields.io/badge/评分-★★★★★-brightgreen.svg)
 
 又一档泛科技类播客，内容也是关于科技行业以及相关领域的一些分析和讨论，内容相对深入。
 
 ------
 
 **选美：**
-![](https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter.svg)
+![](https://img.shields.io/badge/评分-★★★★★-brightgreen.svg)
 
 ipn旗下的一档播客节目，讨论关于美国政治方面的新闻，利于国内听众了解美国政坛的一些现实情况。
 
 ------
 
 **科技聚变：**
-![](https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter.svg)
+![](https://img.shields.io/badge/评分-★★★★★-brightgreen.svg)
 
 一档专注于科技行业的节目，内容相当的有深度。
 
 ------
 
 **比特新声：**
-![](https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter.svg)
+![](https://img.shields.io/badge/评分-★★★★★-brightgreen.svg)
 
 一档科技讨论节目，内容深刻。
 
 ------
 
 **Let's Talk ios：**
-![](https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter.svg)
+![](https://img.shields.io/badge/评分-★★★★★-brightgreen.svg)
 
 一档英文播客，从名字就知道是专注于Apple产品的节目。
 
 _________________
 
 **忽左忽右：**
-![](https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter.svg)
+![](https://img.shields.io/badge/评分-★★★★★-brightgreen.svg)
 
 声东击西的姐妹篇，又一档驻美记者关于国内外新闻事件的分析讨论节目。
 
 ------
 
 **日谈公园：**
-![](https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter.svg)
+![](https://img.shields.io/badge/评分-★★★★★-brightgreen.svg)
 
 大内密探的主播建立的一档以聊天为主，轻松幽默而不落俗套的节目，适合打发时间听。
 
 ------
 
 **大内密探：**
-![](https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter.svg)
+![](https://img.shields.io/badge/评分-★★★★★-brightgreen.svg)
 
 老牌的博客节目，轻松幽默。
 
 ------
 
 **造就：**
-![](https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter.svg)
+![](https://img.shields.io/badge/评分-★★★★★-brightgreen.svg)
 
 增长知识的节目，各行各业的人士来为我们科普一下有意思的知识。
 
 ------
 
 **一席：**
-![](https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter.svg)
-
+![](https://img.shields.io/badge/评分-★★★★★-brightgreen.svg)
 与造就类似，知识普及类的节目。
 
 ------
 
 **The talk show of John Gruber：**
-![](https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter.svg)
+![](https://img.shields.io/badge/评分-★★★★★-brightgreen.svg)
 
 鼎鼎大名的国外科技博客，可以请到许多业内传奇人物来做节目，值得一听。
 
@@ -115,43 +114,42 @@ _________________
 
 ------
 
-**无聊斋：**
-![](https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter.svg)
+**无聊斋：**![](https://img.shields.io/badge/评分-★★★★★-brightgreen.svg)
 
 若干脱口秀从业者的一档聊天节目
 
 ---
 
 **一言不合：**
-![](https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter.svg)
+![](https://img.shields.io/badge/评分-★★★★★-brightgreen.svg)
 
 无聊斋的兄弟播客，主播略有差异
 
 ---
 
 **津津乐道：**
-![](https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter.svg)
+![](https://img.shields.io/badge/评分-★★★★★-brightgreen.svg)
 
 一群天津人的talk节目，浓郁的津味节目
 
 ---
 
 **针尖：**
-![](https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter.svg)
+![](https://img.shields.io/badge/评分-★★★★★-brightgreen.svg)
 
 一档文化深度讨论播客，几档关于女性话题的值得一听
 
 ---
 
 **博物志：**
-![](https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter.svg)
+![](https://img.shields.io/badge/评分-★★★★★-brightgreen.svg)
 
 原属ipn博客网络，最早讨论博物馆相关话题，现在话题更加广泛，质量很好，值得订阅
 
 ---
 
 **味之道：**
-![](https://img.shields.io/amo/stars/dustman.svg)
+![](https://img.shields.io/badge/评分-★★★★☆-brightgreen.svg)
 
 原ipn网络节目，一档美食博客，两位女主播声音很好听，内容可以一听。
 
