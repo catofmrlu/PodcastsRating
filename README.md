@@ -11,7 +11,7 @@
 ------
 
 **声东击西：**
-![](https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter.svg)
+![](https://img.shields.io/badge/评分-★★★★★-brightgreen.svg)
 
 一些驻美记者的一些关于科技行业的讨论，可以为帮助国内的听众提供一些不同角度的看法。
 
