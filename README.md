@@ -106,43 +106,50 @@ _________________
 
 ------
 
-**FMIT：** ★★★
+**FMIT：**
+![](https://img.shields.io/badge/%E8%AF%84%E5%88%86-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-green.svg)
 
 与上面两档节目类似，一起订阅当做闲暇时间的调剂不错。
 
 ------
 
-**无聊斋：** ★★★★★
+**无聊斋：**
+![](https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter.svg)
 
 若干脱口秀从业者的一档聊天节目
 
 ---
 
-**一言不合：** ★★★★★
+**一言不合：**
+![](https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter.svg)
 
 无聊斋的兄弟播客，主播略有差异
 
 ---
 
-**津津乐道：** ★★★★★
+**津津乐道：**
+![](https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter.svg)
 
 一群天津人的talk节目，浓郁的津味节目
 
 ---
 
-**针尖：** ★★★★★
+**针尖：**
+![](https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter.svg)
 
 一档文化深度讨论播客，几档关于女性话题的值得一听
 
 ---
 
-**博物志：** ★★★★★
+**博物志：**
+![](https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter.svg)
 
 原属ipn博客网络，最早讨论博物馆相关话题，现在话题更加广泛，质量很好，值得订阅
 
 ---
 
-**味之道：** ★★★★
+**味之道：**
+https://img.shields.io/amo/stars/dustman.svg
 
 原ipn网络节目，一档美食博客，两位女主播声音很好听，内容可以一听。
 
