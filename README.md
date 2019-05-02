@@ -149,7 +149,7 @@ _________________
 ---
 
 **味之道：**
-https://img.shields.io/amo/stars/dustman.svg
+1[](https://img.shields.io/amo/stars/dustman.svg)
 
 原ipn网络节目，一档美食博客，两位女主播声音很好听，内容可以一听。
 
