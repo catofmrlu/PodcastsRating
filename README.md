@@ -94,20 +94,22 @@ _________________
 
 ------
 
-**墨比移动风：** ★★★
+**墨比移动风：**
+![](https://img.shields.io/badge/%E8%AF%84%E5%88%86-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-brightgreen.svg)
 
 科技类节目，内容以分享为主，内容相对较水。
 
 ------
 
-**UTT：** ★★★
+**UTT：**
+![](https://img.shields.io/badge/%E8%AF%84%E5%88%86-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-brightgreen.svg)
 
 和墨比移动风类似，适合路上听一听。
 
 ------
 
 **FMIT：**
-![](https://img.shields.io/badge/%E8%AF%84%E5%88%86-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-green.svg)
+![](https://img.shields.io/badge/%E8%AF%84%E5%88%86-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-brightgreen.svg)
 
 与上面两档节目类似，一起订阅当做闲暇时间的调剂不错。
 
@@ -149,7 +151,7 @@ _________________
 ---
 
 **味之道：**
-1[](https://img.shields.io/amo/stars/dustman.svg)
+![](https://img.shields.io/amo/stars/dustman.svg)
 
 原ipn网络节目，一档美食博客，两位女主播声音很好听，内容可以一听。
 
