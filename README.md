@@ -163,7 +163,7 @@ _________________
 ---
 
 **村口FM：**
-![](https://img.shields.io/badge/评分-★★★☆☆-orange.svg)
+![](https://img.shields.io/badge/评分-★★★★☆-orange.svg)
 
 一档有意思的谈话节目，有一些固定的嘉宾，分享一些有意思的行业话题。
 
