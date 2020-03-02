@@ -8,6 +8,15 @@ PodcastsRating
 > - 可被泛用型客户端搜索并订阅（国内的平台独占节目也是可以通过一定的方法来订阅）
 
 ---
+##### podcasts客户端推荐
+ios：
+- Castro（内购）
+- pocketcsats（内购）
+android：
+- pocketcasts（内购）
+windows：
+- fm moon
+
 ---
 **声东击西：**
 ![](https://img.shields.io/badge/评分-★★★★★-brightgreen.svg)
