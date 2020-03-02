@@ -181,7 +181,7 @@ _________________
 
 ---
 **跑题大会：**
-![](https://img.shields.io/badge/评分-★★★★★-orange.svg)
+![](https://img.shields.io/badge/评分-★★★★★-brightgreen.svg)
 
 闲聊类节目，两位主持人语言幽默，内容较湿，适合打发时间。
 
