@@ -8,7 +8,7 @@ PodcastsRating
 > - 可被泛用型客户端搜索并订阅（国内的平台独占节目也是可以通过一定的方法来订阅）
 
 ---
-##### podcasts客户端推荐
+### podcasts客户端推荐
 ios：
 - Castro（内购）
 - pocketcsats（内购）
