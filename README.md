@@ -169,7 +169,7 @@ _________________
 
 ---
 **谐星聊天会：**
-![](https://img.shields.io/badge/评分-★★★★☆-orange.svg)
+![](https://img.shields.io/badge/评分-★★★★★-brightgreen.svg)
 
 单立人喜剧继无聊斋、一言不合之后第三档单口喜剧节目，和前面两档保持同样的质量。
 
