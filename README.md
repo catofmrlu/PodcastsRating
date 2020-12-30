@@ -28,6 +28,13 @@ windows：
 一些驻美记者的一些关于科技行业的讨论，可以为帮助国内的听众提供一些不同角度的看法。
 
 ------
+---
+**硅谷早知道：**
+![](https://img.shields.io/badge/评分-★★★★★-brightgreen.svg)
+
+一声东击西衍生节目，讨论硅谷商业和新兴行业。
+
+------
 **故事FM：**
 ![](https://img.shields.io/badge/评分-★★★★★-brightgreen.svg)
 
@@ -209,12 +216,6 @@ _________________
 ![](https://img.shields.io/badge/评分-★★★☆☆-orange.svg)
 
 上海笑果工厂出品的喜剧脱口秀节目。
-
----
-**跑题大会：**
-![](https://img.shields.io/badge/评分-★★★★★-brightgreen.svg)
-
-闲聊类节目，两位主持人语言幽默，内容较湿，适合打发时间。
 
 ---
 **机场推荐：**
