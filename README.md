@@ -12,9 +12,11 @@ PodcastsRating
 ios：
 - Castro（内购）
 - pocketcasts（内购）  
+- 小宇宙
 
 android：
 - pocketcasts（内购）  
+- 小宇宙
 
 windows：
 - fm moon
@@ -26,11 +28,29 @@ windows：
 一些驻美记者的一些关于科技行业的讨论，可以为帮助国内的听众提供一些不同角度的看法。
 
 ------
+**故事FM：**
+![](https://img.shields.io/badge/评分-★★★★★-brightgreen.svg)
+
+人间百态，酸甜苦辣，用主播的声音讲我们的故事。
+
+------
+**跑题大会：**
+![](https://img.shields.io/badge/评分-★★★★★-brightgreen.svg)
+
+格子老师老有趣了。
+
+------
 
 **迟早更新：**
 ![](https://img.shields.io/badge/评分-★★★★★-brightgreen.svg)
 
 又一档泛科技类播客，内容也是关于科技行业以及相关领域的一些分析和讨论，内容相对深入。
+
+------
+**东亚观察局：**
+![](https://img.shields.io/badge/评分-★★★★★-brightgreen.svg)
+
+三位在日中韩的华人对东亚三国的方方面面的讨论。
 
 ------
 
@@ -197,3 +217,6 @@ _________________
 闲聊类节目，两位主持人语言幽默，内容较湿，适合打发时间。
 
 ---
+**机场推荐：**
+一年1t流量只要10块钱。
+移步这里：https://dabai.icu/auth/register?code=pyKJ
